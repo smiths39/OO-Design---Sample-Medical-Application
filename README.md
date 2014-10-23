@@ -19,11 +19,15 @@ Entering the relevant information of a patient
 
 Entering brief notes to highlight specific medical conditions (optional)
 
-1. Sensors are attached to the patient. A means of allowing intravenous input (injection of medication into the veins) is attached to the patient. The sensors send the following information to the computer.
-2. Heart Rate
-3. Temperature
-4. Blood Pressure
-5. Blood Glucose Level
+1. Sensors are attached to the patient. 
+2. A means of allowing intravenous input (injection of medication into the veins) is attached to the patient. 
+
+The sensors send the following information to the computer.
+
+1. Heart Rate
+2. Temperature
+3. Blood Pressure
+4. Blood Glucose Level
 
 Continually sending information regularly and frequently is applied to the system. Vital signs may be sent at different timings, depending on their readings.
 
